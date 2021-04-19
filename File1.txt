@@ -1,6 +1,5 @@
 To Learn Git Commands
 Direct From Git
 Create Conflict
-Line from Branch#1
 Line From Master Branch
 Added one more from master
